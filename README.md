@@ -4,7 +4,7 @@
 * **院校信息：**东北大学、2018 年毕业、本科、软件工程
 * **我的电话：**13343192445
 * **个人邮箱：**itzhewei@gmail.com
-* **[简书博客](http://www.jianshu.com/users/9c51a213b02e/latest_articles)：**
+* **[简书博客](http://blog.csdn.net/zheweixingzhang)：**http://blog.csdn.net/zheweixingzhang
 * **[GitHub...](https://github.com/itzhewei)：**https://github.com/itzhewei
 * 求职意向：java研发工程师
 
